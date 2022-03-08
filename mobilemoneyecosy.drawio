@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T07:25:23.894Z" agent="5.0 (Windows)" etag="hatwTMUNDlRP8oGqnkVW" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T07:39:38.832Z" agent="5.0 (Windows)" etag="Em7aJZ1wo2XxDWuXLPxk" version="16.6.2" type="github">
   <diagram id="eTeOLuo56mxKcvvQQfVn" name="Page-1">
     <mxGraphModel dx="782" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,23 +10,23 @@
         <mxCell id="AAWGIZFg6NjX5eT5rz1d-2" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="40" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AAWGIZFg6NjX5eT5rz1d-3" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AAWGIZFg6NjX5eT5rz1d-3" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="80" y="360" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AAWGIZFg6NjX5eT5rz1d-4" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AAWGIZFg6NjX5eT5rz1d-4" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="720" y="360" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AAWGIZFg6NjX5eT5rz1d-14" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontFamily=Times New Roman;dashed=1;" vertex="1" parent="1">
-          <mxGeometry y="310" width="760" height="8" as="geometry" />
+          <mxGeometry y="310" width="850" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="AAWGIZFg6NjX5eT5rz1d-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="AAWGIZFg6NjX5eT5rz1d-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
           <mxGeometry x="270" y="360" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AAWGIZFg6NjX5eT5rz1d-17" value="M-PESA Bank Account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="322.5" y="375" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AAWGIZFg6NjX5eT5rz1d-18" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="180" y="375" width="30" height="30" as="geometry" />
+          <mxGeometry x="180" y="375" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AAWGIZFg6NjX5eT5rz1d-20" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -70,7 +70,7 @@
         <mxCell id="AAWGIZFg6NjX5eT5rz1d-27" value="5. Agent &quot;B&quot; withdraw cash from M-PESA bank account to replace his e-money float" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="620" y="440" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AAWGIZFg6NjX5eT5rz1d-28" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="AAWGIZFg6NjX5eT5rz1d-29">
+        <mxCell id="AAWGIZFg6NjX5eT5rz1d-28" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;" edge="1" parent="1" target="AAWGIZFg6NjX5eT5rz1d-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="360" as="sourcePoint" />
             <mxPoint x="400" y="300" as="targetPoint" />
@@ -107,7 +107,7 @@
           <mxGeometry x="410" y="140" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AAWGIZFg6NjX5eT5rz1d-34" value="&lt;b&gt;M-PESA&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="AAWGIZFg6NjX5eT5rz1d-33">
-          <mxGeometry x="330" width="60" height="30" as="geometry" />
+          <mxGeometry x="460" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AAWGIZFg6NjX5eT5rz1d-38" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="AAWGIZFg6NjX5eT5rz1d-33">
           <mxGeometry x="130" y="80" width="30" height="30" as="geometry" />
@@ -192,10 +192,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AAWGIZFg6NjX5eT5rz1d-51" value="Physical Money" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="AAWGIZFg6NjX5eT5rz1d-51" value="Physical Money" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;horizontal=0;gradientColor=#b3b3b3;" vertex="1" parent="1">
           <mxGeometry y="360" width="30" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="AAWGIZFg6NjX5eT5rz1d-52" value="Electronic Money (M-PESA value)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;html=1;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="AAWGIZFg6NjX5eT5rz1d-52" value="Electronic Money (M-PESA value)" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;html=1;horizontal=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="10" y="40" width="20" height="200" as="geometry" />
         </mxCell>
         <mxCell id="AAWGIZFg6NjX5eT5rz1d-53" value="2. Customer &quot;C&quot; (sender) deposit cash with agent to buy e-money" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="1">
@@ -233,6 +233,9 @@
         </mxCell>
         <mxCell id="AAWGIZFg6NjX5eT5rz1d-60" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="740" y="220" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AAWGIZFg6NjX5eT5rz1d-61" value="M-PESA: Mobile Money" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="220" width="30" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
