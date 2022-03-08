@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T07:40:47.208Z" agent="5.0 (Windows)" etag="qgdRue7iHNJVQpLpzsmM" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T07:51:55.994Z" agent="5.0 (Windows)" etag="A1rQuy_vqtYNe_5zaPVD" version="16.6.2" type="github">
   <diagram id="eTeOLuo56mxKcvvQQfVn" name="Page-1">
     <mxGraphModel dx="782" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -79,31 +79,31 @@
         <mxCell id="AAWGIZFg6NjX5eT5rz1d-29" value="1&amp;amp;5 M-PESA e-money account adjusted to match real money value" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="400" y="280" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AAWGIZFg6NjX5eT5rz1d-33" value="" style="swimlane;startSize=0;fontFamily=Times New Roman;dashed=1;" vertex="1" parent="1">
+        <mxCell id="AAWGIZFg6NjX5eT5rz1d-33" value="" style="swimlane;startSize=0;fontFamily=Times New Roman;dashed=1;shadow=0;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="40" width="520" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="AAWGIZFg6NjX5eT5rz1d-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="AAWGIZFg6NjX5eT5rz1d-33">
+        <mxCell id="AAWGIZFg6NjX5eT5rz1d-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="AAWGIZFg6NjX5eT5rz1d-33">
           <mxGeometry x="160" y="120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AAWGIZFg6NjX5eT5rz1d-10" value="Agent &quot;A&quot; Account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="AAWGIZFg6NjX5eT5rz1d-33">
+        <mxCell id="AAWGIZFg6NjX5eT5rz1d-10" value="Agent &quot;A&quot; Account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="AAWGIZFg6NjX5eT5rz1d-33">
           <mxGeometry x="170" y="145" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AAWGIZFg6NjX5eT5rz1d-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="AAWGIZFg6NjX5eT5rz1d-33">
+        <mxCell id="AAWGIZFg6NjX5eT5rz1d-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="AAWGIZFg6NjX5eT5rz1d-33">
           <mxGeometry x="40" y="120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AAWGIZFg6NjX5eT5rz1d-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;Customer &quot;C&quot; Account&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AAWGIZFg6NjX5eT5rz1d-33">
+        <mxCell id="AAWGIZFg6NjX5eT5rz1d-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;Customer &quot;C&quot; Account&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="AAWGIZFg6NjX5eT5rz1d-33">
           <mxGeometry x="50" y="135" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AAWGIZFg6NjX5eT5rz1d-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="AAWGIZFg6NjX5eT5rz1d-33">
+        <mxCell id="AAWGIZFg6NjX5eT5rz1d-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="AAWGIZFg6NjX5eT5rz1d-33">
           <mxGeometry x="400" y="120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AAWGIZFg6NjX5eT5rz1d-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="AAWGIZFg6NjX5eT5rz1d-33">
+        <mxCell id="AAWGIZFg6NjX5eT5rz1d-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="AAWGIZFg6NjX5eT5rz1d-33">
           <mxGeometry x="280" y="120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AAWGIZFg6NjX5eT5rz1d-11" value="Agent &quot;B&quot; Account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="AAWGIZFg6NjX5eT5rz1d-33">
+        <mxCell id="AAWGIZFg6NjX5eT5rz1d-11" value="Agent &quot;B&quot; Account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="AAWGIZFg6NjX5eT5rz1d-33">
           <mxGeometry x="290" y="145" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AAWGIZFg6NjX5eT5rz1d-12" value="Customer &quot;D&quot; Account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="AAWGIZFg6NjX5eT5rz1d-33">
+        <mxCell id="AAWGIZFg6NjX5eT5rz1d-12" value="Customer &quot;D&quot; Account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="AAWGIZFg6NjX5eT5rz1d-33">
           <mxGeometry x="410" y="140" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AAWGIZFg6NjX5eT5rz1d-34" value="&lt;b&gt;M-PESA&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="AAWGIZFg6NjX5eT5rz1d-33">
@@ -192,10 +192,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AAWGIZFg6NjX5eT5rz1d-51" value="Physical Money" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;horizontal=0;gradientColor=#b3b3b3;" vertex="1" parent="1">
+        <mxCell id="AAWGIZFg6NjX5eT5rz1d-51" value="Physical Money" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;horizontal=0;gradientColor=#b3b3b3;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry y="360" width="30" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="AAWGIZFg6NjX5eT5rz1d-52" value="Electronic Money (M-PESA value)" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;html=1;horizontal=0;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="AAWGIZFg6NjX5eT5rz1d-52" value="Electronic Money (M-PESA value)" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;html=1;horizontal=0;fontColor=#333333;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="40" width="20" height="200" as="geometry" />
         </mxCell>
         <mxCell id="AAWGIZFg6NjX5eT5rz1d-53" value="2. Customer &quot;C&quot; (sender) deposit cash with agent to buy e-money" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="1">
@@ -234,7 +234,7 @@
         <mxCell id="AAWGIZFg6NjX5eT5rz1d-60" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="740" y="220" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AAWGIZFg6NjX5eT5rz1d-61" value="M-PESA: Mobile Money" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="AAWGIZFg6NjX5eT5rz1d-61" value="M-PESA: Mobile Money" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;horizontal=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="820" y="220" width="30" height="150" as="geometry" />
         </mxCell>
       </root>
